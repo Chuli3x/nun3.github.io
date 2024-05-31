@@ -196,3 +196,14 @@ nav {
     border-top: 1px solid #28234b;
     border-bottom: 1px solid #28234b;
 }
+
+nav a:hover {
+    color:#FFF;
+      background-color:#28234b;
+  }
+  
+  nav a:active {
+      color:#28234b;
+      font-style: lato, Arial, sans-serif;
+      background-color:#28234b;
+  }
